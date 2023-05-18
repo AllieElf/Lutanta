@@ -1,0 +1,10 @@
+{
+  "metadataKeyEventStartDate": "aat-event-start-date",
+  "metadataKeyEventEndDate": "aat-event-end-date",
+  "metadataKeyEventTitleOverride": "aat-event-title",
+  "metadataKeyEventBodyOverride": "aat-event-body",
+  "metadataKeyEventPictureOverride": "aat-event-picture",
+  "dateParserRegex": "(?<year>-?[0-9]*)",
+  "dateParserGroupPriority": "year",
+  "dateDisplayFormat": "{year}"
+}

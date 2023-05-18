@@ -1,0 +1,2 @@
+#district 
+As "upper-class" as [[Felgar]] can get, the population is mostly consisted of chain fishery owners who export their fish downstream. Houses are built significantly better, but the smell of fish still permeates the area.

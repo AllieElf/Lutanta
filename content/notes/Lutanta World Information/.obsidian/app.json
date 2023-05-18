@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Images",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute"
+}

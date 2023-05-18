@@ -1,0 +1,591 @@
+{
+  "mapMarkers": [
+    {
+      "id": "ezaros-world-region",
+      "lastAccessed": 1684287714205,
+      "markers": [
+        {
+          "id": "ID_196ae8495878",
+          "type": "default",
+          "loc": [
+            -5.726318359375,
+            6.025390625
+          ],
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f96a79998bba",
+          "type": "default",
+          "loc": [
+            -5.296630859375,
+            6.001953125
+          ],
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28a849bbca59",
+          "type": "default",
+          "loc": [
+            -4.624755859375,
+            5.462890625
+          ],
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bc8fa5a99ea",
+          "type": "default",
+          "loc": [
+            -5.788818359375,
+            5.095703125
+          ],
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ae819d9eacb",
+          "type": "default",
+          "loc": [
+            -5.632568359375,
+            4.845703125
+          ],
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_982aeb492b98",
+          "type": "default",
+          "loc": [
+            -5.531005859375,
+            4.525390625
+          ],
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb3b482a286b",
+          "type": "default",
+          "loc": [
+            -5.156005859375,
+            4.158203125
+          ],
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Geography/Lutanta.md"
+      ]
+    },
+    {
+      "id": "cityoflinormap",
+      "lastAccessed": 1684297126521,
+      "markers": [
+        {
+          "id": "ID_2b099b99f9da",
+          "type": "Region",
+          "loc": [
+            136.16015625,
+            150.125
+          ],
+          "link": "Imports",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18ba48687a1b",
+          "type": "Region",
+          "loc": [
+            136.41015625,
+            165.375
+          ],
+          "link": "Docks",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38588b8baa4b",
+          "type": "Region",
+          "loc": [
+            119.16015625,
+            146.625
+          ],
+          "link": "Lothria Keep",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49d90b891bda",
+          "type": "Region",
+          "loc": [
+            108.03515625,
+            160
+          ],
+          "link": "Shopping District",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aab82b9ab8c8",
+          "type": "Region",
+          "loc": [
+            151.28515625,
+            131
+          ],
+          "link": "Upperclass District",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bebca69ba4a",
+          "type": "Region",
+          "loc": [
+            152.41015625,
+            109
+          ],
+          "link": "Agricultural District",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a7af81a78d8",
+          "type": "Region",
+          "loc": [
+            89.5,
+            114
+          ],
+          "link": "Middleclass District",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            11.76536988510381,
+            -13.553386572020113
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98584a597af8",
+          "type": "Region",
+          "loc": [
+            113.28515625,
+            203.125
+          ],
+          "link": "Military District",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da48390b9b29",
+          "type": "Region",
+          "loc": [
+            82.66015625,
+            85.5
+          ],
+          "link": "The Slums",
+          "layer": "%5B%5Blinormap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Settlements/Lutanta Regions/Pelbourgh Region/Linor/City of Linor.md"
+      ]
+    },
+    {
+      "id": "pelbourghwoodsmap",
+      "locked": false,
+      "lastAccessed": 1684297174834,
+      "markers": [
+        {
+          "id": "ID_098bf9c94bba",
+          "type": "Town",
+          "loc": [
+            85.60963896912443,
+            166.3468702741353
+          ],
+          "link": "Felgar",
+          "layer": "%5B%5Bpelwoodsmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The fishing town of Felgar",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8a94b98d8ba",
+          "type": "Body of Water",
+          "loc": [
+            98.28784258493012,
+            183.31743302261245
+          ],
+          "link": "Ardentmist River",
+          "layer": "%5B%5Bpelwoodsmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            49.95131756656603,
+            -54.05303480503139
+          ],
+          "description": "A major trade river, it flows down from Lake Linor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9849ebdad819",
+          "type": "City",
+          "loc": [
+            81.546875,
+            149.25
+          ],
+          "link": "City of Linor",
+          "layer": "%5B%5Bpelwoodsmap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Heart of the Linorian Empire",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Settlements/Lutanta Regions/Pelbourgh Region/Pelbourgh Woods Region.md"
+      ]
+    },
+    {
+      "id": "map",
+      "lastAccessed": 1684449706511,
+      "markers": [
+        {
+          "id": "ID_899be96bbaa9",
+          "type": "default",
+          "loc": [
+            152.59375,
+            145.5625
+          ],
+          "link": "Fisher's Pass",
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A small fishing district",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bb92baab909",
+          "type": "default",
+          "loc": [
+            101.1162697096763,
+            140.00714267493643
+          ],
+          "link": "Southside",
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            18.13857718865573,
+            -12.198758268462363
+          ],
+          "description": "As \"upper-class\" as Felgar gets, mostly populated by chain fishery owners",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c81af86a3a4b",
+          "type": "default",
+          "loc": [
+            64.1699403926792,
+            168.29141392239833
+          ],
+          "link": "Bastion",
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A sturdy fortress where the mayor of Felgar resides.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9f91b28a81b",
+          "type": "default",
+          "loc": [
+            184.484375,
+            131.8125
+          ],
+          "link": "Northtown",
+          "layer": "%5B%5Bmap.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The slums reigion, populated almost entirely by poor farmers.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Settlements/Lutanta Regions/Pelbourgh Region/Felgar/Felgar.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ff0000",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Region",
+      "iconName": "info-circle",
+      "color": "#bff3c7",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Body of Water",
+      "iconName": "water",
+      "color": "#00d5ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#04ff00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#37ff00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.6.1",
+  "version": {
+    "major": 5,
+    "minor": 6,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 1.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[pelwoodsmap.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[pelwoodsmap.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "pelbourghwoodsmap",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        125,
+        250
+      ]
+    ],
+    "unit": "meters",
+    "lat": 96,
+    "long": 128,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}
