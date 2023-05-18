@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[Primordia]]","id":"e23bfb0811d370f5","x":-80,"y":-380,"width":250,"height":60},
+		{"type":"text","text":"[[Ilumis]]","id":"cb267cef48d71509","x":360,"y":-240,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"[[Edenari]]","id":"27804b21f6fe04e6","x":-240,"y":-240,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"[[Mizu]]","id":"8c2eb8efeea7269c","x":-540,"y":-240,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"[[Xanthe]]","id":"70fa64bda2f86ff1","x":80,"y":-240,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"**The First Man**","id":"f44b7c9323ffbc64","x":-80,"y":-60,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{"id":"cf9e4496c4ef6ed8","fromNode":"e23bfb0811d370f5","fromSide":"bottom","toNode":"70fa64bda2f86ff1","toSide":"top"},
+		{"id":"f1213381993d6d26","fromNode":"e23bfb0811d370f5","fromSide":"bottom","toNode":"27804b21f6fe04e6","toSide":"top"},
+		{"id":"24c6642f55aa1178","fromNode":"e23bfb0811d370f5","fromSide":"bottom","toNode":"cb267cef48d71509","toSide":"top"},
+		{"id":"5f4ea3d164724190","fromNode":"e23bfb0811d370f5","fromSide":"bottom","toNode":"8c2eb8efeea7269c","toSide":"top"},
+		{"id":"0f4a1fb40d154faa","fromNode":"e23bfb0811d370f5","fromSide":"bottom","toNode":"f44b7c9323ffbc64","toSide":"top"}
+	]
+}

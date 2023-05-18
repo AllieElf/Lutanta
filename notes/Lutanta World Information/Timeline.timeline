@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <version>2.8.0 (a5d1a524551b 2023-01-01)</version>
+  <timetype>numtime</timetype>
+  <eras>
+    <era>
+      <name>Age of Creation</name>
+      <start>0</start>
+      <end>450</end>
+      <color>213,255,213</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>Age of the Elementals</name>
+      <start>450</start>
+      <end>700</end>
+      <color>255,255,223</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>Age of Establishment</name>
+      <start>700</start>
+      <end>1250</end>
+      <color>234,234,234</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>Age of Magic</name>
+      <start>1250</start>
+      <end>1600</end>
+      <color>255,198,255</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>Age of Decline</name>
+      <start>1600</start>
+      <end>1700</end>
+      <color>114,114,114</color>
+      <ends_today>False</ends_today>
+    </era>
+    <era>
+      <name>Age of War</name>
+      <start>1700</start>
+      <end>9000</end>
+      <color>255,193,164</color>
+      <ends_today>False</ends_today>
+    </era>
+  </eras>
+  <categories>
+    <category>
+      <name>Age</name>
+      <color>128,255,255</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Creation</name>
+      <color>128,255,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Event</name>
+      <color>255,255,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>War</name>
+      <color>255,128,128</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Birth</name>
+      <color>0,128,255</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+    <category>
+      <name>Language</name>
+      <color>128,255,255</color>
+      <progress_color>255,153,153</progress_color>
+      <done_color>255,153,153</done_color>
+      <font_color>0,0,0</font_color>
+    </category>
+  </categories>
+  <events>
+    <event>
+      <start>1250</start>
+      <end>1250</end>
+      <text>a</text>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>The end of the Age of Establishment in the year 1250 marked a significant turning point in the history of Lutanta. It was characterized by the collapse of the old order, marked by widespread social and political unrest, economic depression, and the loss of central authority. The period was marked by a series of wars, revolts, and uprisings that resulted in the overthrow of the established aristocracy and the rise of new political forces. This period also saw the spread of new ideas, such as humanism, that challenged the traditional religious and social norms, and led to a shift in power from the Church to the emerging merchant class. Ultimately, the end of the Age of Establishment set the stage for the development of a new era of progress and prosperity in Lutanta.</description>
+      <default_color>255,255,128</default_color>
+      <milestone>True</milestone>
+    </event>
+    <event>
+      <start>700</start>
+      <end>700</end>
+      <text>e</text>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The gods emerged from chaos and darkness and used their magic to create the world of Lutanta and all its elements. They created elementals to maintain balance and harmony in the natural world. The gods believed that magic in the hands of mortals would upset the natural order and lead to chaos. They saw their role as maintaining balance and harmony in the world, and thus, they sought to prevent mortals from using magic. The gods were self-interested beings and were motivated to protect their own interests. When Xanthe gave magic to mortals, the other gods saw this as a threat to their own interests and sought to intervene to protect themselves.</description>
+      <default_color>255,255,128</default_color>
+      <milestone>True</milestone>
+    </event>
+    <event>
+      <start>450</start>
+      <end>450</end>
+      <text>c</text>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The elementals, created by the gods, played a crucial role in maintaining balance in the world of Lutanta. They were made of the raw elements of the world and were tasked with ensuring that these elements were in harmony and balance. However, the introduction of magic to mortals by Xanthe disrupted this balance, leading the gods to send the elementals to eliminate humanity. Ultimately, peace was established between the humans and the gods, with the elementals continuing to play a role in maintaining balance in the world.</description>
+      <default_color>255,255,128</default_color>
+      <milestone>True</milestone>
+    </event>
+    <event>
+      <start>1500</start>
+      <end>1500</end>
+      <text>H</text>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Age</category>
+      <description>Height of the Linorian Empire</description>
+      <default_color>128,255,128</default_color>
+      <milestone>True</milestone>
+    </event>
+    <event>
+      <start>1600</start>
+      <end>1600</end>
+      <text>m</text>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <description>The end of the Age of Magic in Lutanta in the year 1600 marked a significant turning point in the world's history. It was characterized by the decline of the widespread use of magic and the rise of science and technology. This shift was due to a number of factors, including the rediscovery of ancient texts, the growth of the scientific community, and a decline in belief in the supernatural. The end of the Age of Magic was also marked by increased skepticism and rationalism, which challenged traditional beliefs and led to significant social and cultural changes.</description>
+      <default_color>255,255,128</default_color>
+      <milestone>True</milestone>
+    </event>
+    <event>
+      <start>1700</start>
+      <end>1700</end>
+      <text>W</text>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>Out of the fragments of the Linor Empire rose out the Domavatath Empire, soon to be one of the most highly competitive Empires of the Linorian Empire. The Domavatath Empire and the Linorian Empire engaged in a multitude of land wars and territorial disputes over valuable resources and land.</description>
+      <default_color>255,255,128</default_color>
+      <milestone>True</milestone>
+    </event>
+    <event>
+      <start>467</start>
+      <end>652</end>
+      <text>The Divine War</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The other gods, realizing the mistake they made in allowing Xanthe to give magic to mortals, they decide to intervene in mortal affairs with the goal of destroying humanity.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>0</start>
+      <end>0</end>
+      <text>Creation</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>The gods emerge from chaos and darkness, creating the world of Lutanta using their magic.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>0</start>
+      <end>0</end>
+      <text>Creation</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>True</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>The god of the sky, Ilumis, creates the sun and moon, giving them the power to bring light and warmth to the world. Many other gods created the different elements of the world from the power brought forth by the Sun and Moon.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>100</start>
+      <end>100</end>
+      <text>Elementals Appear</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>True</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>The gods create the first elementals, beings made of the raw elements of the world, to maintain balance and harmony in the natural world.</description>
+      <labels>Elementals</labels>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>238</start>
+      <end>238</end>
+      <text>Creation of Humanity</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>The gods create the first mortals.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>455</start>
+      <end>455</end>
+      <text>Xanthe's Betrayal</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The god of secrets, Xanthe, betrays the other gods by giving magic to mortals, allowing them to shape the world in ways the elementals cannot.</description>
+      <hyperlink>obsidian://open?vault=Lutanta%20World%20Information&amp;file=Creatures%2FDeities%2FXanthe</hyperlink>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>457</start>
+      <end>457</end>
+      <text>Elemental Militia</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The other gods, realizing the mistake they made in allowing Xanthe to give magic to mortals, they decide to intervene in mortal affairs with the goal of destroying humanity.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>655</start>
+      <end>655</end>
+      <text>Peace Offerings to the Gods</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>Humanity offers peace to the gods.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>646</start>
+      <end>646</end>
+      <text>Opening of the Rift</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>Archaicus the Unmoving opens a rift between worlds opens in Grimzârk Hold, causing a spill of many different magics into the world.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>604</start>
+      <end>604</end>
+      <text>Construction of Grimzark Hold</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>A mighty bastion was constructed to house magical technologies used to defeat the gods. The construction of the structure and the device were supervised by a mysterious cult, The Keepers of the Gate</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>651</start>
+      <end>651</end>
+      <text>End of the Divine War</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>Using other worldly magic from other planes, humanity musters enough power to defeat the gods.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>704</start>
+      <end>704</end>
+      <text>Settlements Form</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>The earliest known human settlements on Lutanta are established in the region that will later become the Linor Empire.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>799</start>
+      <end>799</end>
+      <text>Kingdoms Form</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>The first kingdoms and city-states begin to emerge on Lutanta, with powerful rulers consolidating control over neighboring territories.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>905</start>
+      <end>905</end>
+      <text>Conflict Rises</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The use of technology leads to a period of warfare and territorial expansion among the kingdoms and city-states.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1005</start>
+      <end>1005</end>
+      <text>Linorian Reign</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The Linor Kingdom emerged as the dominant power on the continent of Lutanta, through a combination of military might and alliances with neighboring kingdoms. The Linor Kingdom's powerful army, strategic alliances, and successful military campaigns allowed it to consolidate its control over neighboring territories, leading to its eventual dominance over the continent. This period marked the beginning of the Linor Kingdom's reign as the most powerful kingdom on Lutanta, setting the stage for its transformation into the Linor Empire.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1256</start>
+      <end>1256</end>
+      <text>Linorian Magic Conquest</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The Linor Kingdom develops a powerful system of magic, which they use to further expand their territory and solidify their control over the continent, beginning an Empirical conquest.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1355</start>
+      <end>1355</end>
+      <text>Forrmation of the Linorian Empire</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>The Linor Kingdom becomes an empire, with the Emperor consolidating power as the ultimate authority.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1404</start>
+      <end>1404</end>
+      <text>Empirical Peace</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The Emperor establishes a centralized government and legal system, leading to a period of stability and prosperity.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1601</start>
+      <end>1601</end>
+      <text>Linorian Civil War</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>True</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The empire begins to decline as internal conflicts greed within the empire weaken its power.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1656</start>
+      <end>1656</end>
+      <text>Linorian Empire Fractures</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The empire fragments into smaller kingdoms and city-states, marking the end of the Linor Empire's rule over Lutanta.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1699</start>
+      <end>1699</end>
+      <text>Start of the Age of War</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>True</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The Linor Empire and the Domavatath Empire begin to engage in border disputes, leading to small-scale skirmishes.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1729</start>
+      <end>1729</end>
+      <text>Koreal the Living</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The Linor Empire enlists the aid of an evil necromancer, who uses dark magic to raise an army of the undead to fight on their behalf.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1740</start>
+      <end>1740</end>
+      <text>Domavatath Northern Invasion of Linor</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The Domavatath Empire launches a full-scale invasion of Linor territories in the north, and the war escalates.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1741</start>
+      <end>1741</end>
+      <text>Domavatath Forces Halted</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>War</category>
+      <description>The necromancer's army proves to be a formidable force and the Domavatath Empire's advance is halted.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1743</start>
+      <end>1743</end>
+      <text>Meradhar Destroyed</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <description>The town of Meradhar is destroyed.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1743</start>
+      <end>1743</end>
+      <text>Party of Meradhar</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Creation</category>
+      <description>A small group of survivors from the town of Meradhar escapes as refugees to the City of Linor. Among these members are Oryn, Branch Riverstone, Damrias, and Atraks.</description>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1423</start>
+      <end>1423</end>
+      <text>Disanz Noblebringer is Born</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Birth</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>1690</start>
+      <end>1690</end>
+      <text>Krogark Stonecrusher is Born</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>False</fuzzy_start>
+      <fuzzy_end>False</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Birth</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>512</start>
+      <end>512</end>
+      <text>Emergence of Uthalglypic Script</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>True</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Language</category>
+      <default_color>192,192,192</default_color>
+    </event>
+    <event>
+      <start>650</start>
+      <end>650</end>
+      <text>Xanthe Banished</text>
+      <progress>0</progress>
+      <fuzzy>False</fuzzy>
+      <fuzzy_start>True</fuzzy_start>
+      <fuzzy_end>True</fuzzy_end>
+      <locked>False</locked>
+      <ends_today>False</ends_today>
+      <category>Event</category>
+      <hyperlink>obsidian://open?vault=Lutanta%20World%20Information&amp;file=Creatures%2FDeities%2FXanthe</hyperlink>
+      <default_color>192,192,192</default_color>
+    </event>
+  </events>
+  <view>
+    <displayed_period>
+      <start>418</start>
+      <end>753</end>
+    </displayed_period>
+    <hidden_categories>
+    </hidden_categories>
+  </view>
+</timeline>
